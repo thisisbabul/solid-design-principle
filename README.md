@@ -8,4 +8,4 @@
 
 **I = Interface Segregation Principle:** The interface segregation principle states that larger interfaces split into smaller ones.
 
-D = Dependency Inversion Principle
+**D = Dependency Inversion Principle:** The dependency inversion principle states that we must use abstraction (abstraction classes and interfaces) instead of concrete implementations. High-Level module should not depend on low-level module but both should depend on the abstraction. 
