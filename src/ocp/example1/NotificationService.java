@@ -1,4 +1,4 @@
-package ocp;
+package ocp.example1;
 
 public class NotificationService {
 
